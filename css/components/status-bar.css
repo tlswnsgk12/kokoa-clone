@@ -2,14 +2,14 @@
   display: flex;
   justify-content: center;
   padding: 5px 3px;
-  background-color: white;
+  background-color: #02343f;
 }
 
 .status-bar__chat {
   display: flex;
   justify-content: center;
   padding: 5px 3px;
-  background-color: #abc1d1;
+  background-color: #815854;
   position: fixed;
   width: 100%;
   box-sizing: border-box;
@@ -21,6 +21,10 @@
   width: 33%;
 }
 
+.status-bar__column:first-child {
+  color: #f0edcc;
+}
+
 .status-bar__column:first-child span {
   margin-right: 5px;
 }
@@ -28,12 +32,14 @@
 .status-bar__column:nth-child(2) {
   display: flex;
   justify-content: center;
+  color: #f0edcc;
 }
 
 .status-bar__column:last-child {
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  color: #f0edcc;
 }
 
 .status-bar__column .fa-battery-full {

@@ -3,4 +3,16 @@
   --horizontal-space: 40px 25px;
   --main-border: 1px solid rgba(0, 0, 0, 0.2);
   --grey: rgba(0, 0, 0, 0.3);
+  --green: #02343f;
+  --beige: #f0edcc;
+  --brown: #815854;
+  --brown-2: #f9ebde;
+  --silver: #50586c;
+  --silver-2: #dce2f0;
+  --red: #a4193d;
+  --red-2: #ffdfb9;
+  --purple: #6a7ba2;
+  --purple-2: #ffdfde;
+  --blue: #333d79;
+  --blue-2: #faebef;
 }

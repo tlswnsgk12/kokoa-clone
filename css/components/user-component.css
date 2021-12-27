@@ -49,6 +49,54 @@
   font-weight: 400;
 }
 
+.friends-screen__channel .user-component .user-component__column {
+  margin-bottom: 45px;
+}
+
+.brown {
+  background-color: var(--brown);
+}
+
+.brown2 {
+  background-color: var(--brown-2);
+}
+
+.silver {
+  background-color: var(--silver);
+}
+
+.silver2 {
+  background-color: var(--silver-2);
+}
+
+.red {
+  background-color: var(--red);
+}
+
+.red2 {
+  background-color: var(--red-2);
+}
+
+.purple {
+  background-color: var(--purple);
+}
+
+.purple2 {
+  background-color: var(--purple-2);
+}
+
+.blue {
+  background-color: var(--blue);
+}
+
+.blue2 {
+  background-color: var(--blue-2);
+}
+
+.green {
+  background-color: var(--green);
+}
+
 .user-component__column:nth-child(2) {
   color: rgba(0, 0, 0, 0.4);
   display: flex;

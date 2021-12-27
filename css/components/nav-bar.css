@@ -2,7 +2,7 @@
   position: fixed;
   bottom: 0;
   width: 100%;
-  background-color: #f9f9fa;
+  background-color: var(--green);
   padding: 20px 50px;
   box-sizing: border-box;
   border-top: 1px solid rgba(121, 121, 121, 0.3);
@@ -15,7 +15,7 @@
 
 .nav__link {
   position: relative;
-  color: #2e363e;
+  color: var(--beige);
 }
 
 @keyframes notificationAnimation {
@@ -23,7 +23,7 @@
     transform: none;
   }
   50% {
-    transform: translateY(10px) rotateY(360deg);
+    transform: rotateY(360deg);
   }
   100% {
     transform: none;
@@ -38,7 +38,7 @@
 }
 
 .nav__ellipsis {
-  background-color: tomato;
+  background-color: var(--brown);
   width: 5px;
   height: 5px;
   border-radius: 2.5px;

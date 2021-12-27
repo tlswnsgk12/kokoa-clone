@@ -1,5 +1,5 @@
 .badge {
-  background-color: tomato;
+  background-color: #815854;
   width: 30px;
   height: 30px;
   border-radius: 15px;
@@ -12,11 +12,11 @@
 
 .badge__second {
   position: absolute;
-  background-color: tomato;
+  background-color: #815854;
   width: 5px;
   height: 5px;
   border-radius: 2.5px;
   display: flex;
   right: 20px;
-  top: 40px;
+  top: 60px;
 }
