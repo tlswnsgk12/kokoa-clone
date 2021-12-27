@@ -139,7 +139,7 @@
 }
 
 .user-component__warning i {
-  color: red;
+  color: var(--brown);
   position: absolute;
   right: -25px;
 }

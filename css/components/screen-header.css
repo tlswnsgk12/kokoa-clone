@@ -40,13 +40,17 @@
 }
 
 .screen-header__icons .fa-cog:hover {
-  animation: rotateIcon 2s linear infinite;
+  animation: rotateIcon 1.5s linear infinite;
 }
 
 .screen-header__icons .fa-music:hover {
-  animation: biggerIcon 1.5s linear infinite;
+  animation: biggerIcon 1s linear infinite;
 }
 
 .screen-header__icons .fa-search:hover {
-  animation: biggerIcon 2s linear infinite;
+  animation: biggerIcon 1s linear infinite;
+}
+
+.screen-header__icons .fa-comment-dots:hover {
+  animation: biggerIcon 1s linear infinite;
 }

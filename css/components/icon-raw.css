@@ -12,6 +12,18 @@
   box-sizing: border-box;
 }
 
+@keyframes biggerIcons {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.25);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
 .icon-row__icon i {
   font-size: 45px;
 }
