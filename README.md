@@ -1,3 +1,3 @@
-# Kokoa Clone 2021 Challenge
+# Kokoa Clone
 
-First Ever Challenge!
+Welcome!
