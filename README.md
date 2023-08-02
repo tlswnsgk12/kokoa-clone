@@ -8,7 +8,7 @@ Front-end: HTML, CSS
 
 Getting Started:
 
-Visit https://tlswnsgk12.github.io/kokoa-clone-2021__final/ in your browser to access.
+Visit https://tlswnsgk12.github.io/kokoa-clone/ in your browser to access.
 
 
 Contribution:
